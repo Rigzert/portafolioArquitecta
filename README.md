@@ -2,4 +2,4 @@
 
 ## Portafolio creado con html, css y javascript
 
--[Visitar el Portafolio creadodo para una arquitecta](https://github.com/Rigzert/portafolioArquitecta)
+-[Visitar el Portafolio creadodo para una arquitecta](https://rigzert.github.io/portafolioArquitecta/)
